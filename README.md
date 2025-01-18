@@ -27,4 +27,3 @@ docker-compose up -d
 ```
 
 The application will be available at `http://localhost:8592`
-```
