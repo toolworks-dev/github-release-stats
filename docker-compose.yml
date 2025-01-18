@@ -1,0 +1,6 @@
+services:
+  github-release-stats:
+    build: .
+    ports:
+      - "8592:80"
+    restart: unless-stopped 
